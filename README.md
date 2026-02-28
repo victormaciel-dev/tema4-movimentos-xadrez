@@ -42,6 +42,9 @@ Isso deixa o código mais limpo e fácil de entender.
 ### Opção 1: Compilar no computador (Linux/Mac/Windows com GCC)
 No terminal, dentro da pasta do projeto:
 
+## 📌 Informações
+Projeto desenvolvido como atividade acadêmica da disciplina de programação em C.
+
 ```bash
 gcc xadrez.c -o xadrez
 ./xadrez
